@@ -1,0 +1,21 @@
+/******************** Universal styles ********************/
+/********** General **********/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/********** Classes **********/
+.boxed {
+    width: 80%;
+    margin: 0 auto;
+}
+.flexed {
+    display: flex;
+}
+
+/******************** Header styles ********************/
+
+/******************** Main styles ********************/
+
+/******************** Footer styles ********************/
